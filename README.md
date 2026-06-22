@@ -19,6 +19,10 @@ Currently working on:
 - React
 - Next.js
 - Git & GitHub
+- HTML
+- CSS
+- SpringBoot
+  
 
 ## Connect With Me
 - LinkedIn
